@@ -16,7 +16,7 @@ This project implements a real-time computer vision system for detecting and re-
 
 ---
 
-##Installation
+## Installation
 
 Used [Google Colab](https://colab.research.google.com/) for easiest setup, or install locally with:
 
