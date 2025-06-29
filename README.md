@@ -1,22 +1,22 @@
 # Sportsmen-Reidentification
-# 🏃 Real-Time Sportsmen Detection and Re-Identification Using YOLOv11 and DeepSORT
+#  Real-Time Sportsmen Detection and Re-Identification Using YOLOv11 and DeepSORT
 
 This project implements a real-time computer vision system for detecting and re-identifying sportsmen in video footage. It combines the power of **YOLOv11** for object detection with **DeepSORT** for identity tracking, enabling persistent player tracking throughout a sports video—even as players leave and re-enter the frame.
 
 ---
 
-## 📌 Features
+## Features
 
-- ⚡ Real-time object detection using YOLOv11
-- 🔁 Player re-identification using DeepSORT
-- 🎥 Video frame-by-frame processing
-- 🧠 Custom-trained YOLO model (`best.pt`) support
-- 📦 Output tracked video with player IDs
-- 📈 Ideal for sports analytics, broadcast enhancement, and post-match reviews
+-  Real-time object detection using YOLOv11
+-  Player re-identification using DeepSORT
+-  Video frame-by-frame processing
+-  Custom-trained YOLO model (`best.pt`) support
+-  Output tracked video with player IDs
+-  Ideal for sports analytics, broadcast enhancement, and post-match reviews
 
 ---
 
-## 🛠️ Installation
+Installation
 
 Used [Google Colab](https://colab.research.google.com/) for easiest setup, or install locally with:
 
